@@ -1,5 +1,5 @@
 +++
-title = "My first essay"
+title = "My first AWESOMEEEEE"
 date = "2014-04-09"
 draft = false
 aliases = ["essays"]
