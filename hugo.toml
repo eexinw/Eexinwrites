@@ -1,5 +1,5 @@
 baseurl      = ""
-title        = "Essays"
+title        = "Eexinwrites"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 pagination.pagerSize = 10
@@ -17,7 +17,7 @@ layoutDir    = "layouts"
 publishDir   = "public"
 
   # Subtitle for home
-  homeSubtitle = "A collection of essays and fun projects"
+  homeSubtitle = "A collection of essays and personal projects"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -47,7 +47,7 @@ publishDir   = "public"
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
+    subtitle  = "A collection of essays and personal projects"
 
     [languages.en.params.logo]
       logoText = "hello world"
