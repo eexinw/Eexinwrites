@@ -1,5 +1,5 @@
 +++
-title = "On leadership"
+title = "Navigating leadership"
 description = ""
 date = "2021-10-10"
 draft = false

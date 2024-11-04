@@ -2,26 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essays on Eexinwrites</title>
-    <link>http://localhost:1313/essays/</link>
+    <link>//localhost:1313/essays/</link>
     <description>Recent content in Essays on Eexinwrites</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/essays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>On leadership</title>
-      <link>http://localhost:1313/essays/leadership/</link>
+      <title>Why do CAC and LTV matter?</title>
+      <link>//localhost:1313/essays/cacltv/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/cacltv/</guid>
+      <description>&lt;p&gt;Back when I was practising case studies for consulting interviews, someone told me that the solutions to most, if not all, usual business case problems can be found by evaluating this equation: Profit = Revenue - Cost.&lt;/p&gt;&#xA;&lt;p&gt;Revenue can be further broken down into its parts: price and quantity, cost split into variable or fixed costs. These four components of the profitability equation yield a surprising amount of insight into a company’s business model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Navigating leadership</title>
+      <link>//localhost:1313/essays/leadership/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/leadership/</guid>
+      <guid>//localhost:1313/essays/leadership/</guid>
       <description>&lt;p&gt;The first time I heard the call of leadership duty was when I was explaining the context and motivations behind a huge tedious regulatory project and halfway through, I realized that people were listening. Not with the usual glazed eyes and the non-committal “I heard you” nods but with the intense gaze of a team who was hungry and ready to rally behind a flag I did not know I possessed. It was more an honest plea rather than a war cry on my part - I sensed that the team was tired, we had a momentous task at hand and I gathered the words to try to make sense of it for them, as I would have done for myself.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My first essay</title>
-      <link>http://localhost:1313/essays/my-first-post/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/my-first-post/</guid>
-      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&#xA;hello hello&lt;/p&gt;&#xA;&lt;p&gt;#Awesome&lt;/p&gt;</description>
+      <title>My love for the Cederberg mountains</title>
+      <link>//localhost:1313/essays/my-first-post/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/my-first-post/</guid>
+      <description>&lt;p&gt;The bar in the middle of the campsite was a wooden shack nestled among the boulders. A bright neon sign at the door spelled out the name of the establishment, glowing red capitalised letters eagerly pronouncing its presence.&lt;/p&gt;&#xA;&lt;p&gt;Wooden benches lined the four walls. A fire in the center of the room raged stubbornly against the cold spring air. It was off-peak season and the place was almost empty. The bartender, a middle-aged man with a bulging middle, waved us in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The things they carried</title>
+      <link>//localhost:1313/essays/things-they-carried/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/things-they-carried/</guid>
+      <description>&lt;p&gt;Dipu Paruchal tilted his head back and surveyed the massive concrete structure resting on a pillar. This stretch of concrete pillars along the road leading up to Kota Damansara would soon be supporting an elevated MRT guideway. Sweat trickled down Dipu’s forehead into his eyes. It stung. He blinked back the sweat and reached into the back pocket of his brown pants for a towel. As he took the towel out, a piece of paper fell out on the ground.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

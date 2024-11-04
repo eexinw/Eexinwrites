@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Eexinwrites</title>
+    <link>//localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Eexinwrites</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do CAC and LTV matter?</title>
+      <link>//localhost:1313/essays/cacltv/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/cacltv/</guid>
+      <description>&lt;p&gt;Back when I was practising case studies for consulting interviews, someone told me that the solutions to most, if not all, usual business case problems can be found by evaluating this equation: Profit = Revenue - Cost.&lt;/p&gt;&#xA;&lt;p&gt;Revenue can be further broken down into its parts: price and quantity, cost split into variable or fixed costs. These four components of the profitability equation yield a surprising amount of insight into a company’s business model.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

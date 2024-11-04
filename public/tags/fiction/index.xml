@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiction on Eexinwrites</title>
+    <link>//localhost:1313/tags/fiction/</link>
+    <description>Recent content in Fiction on Eexinwrites</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The things they carried</title>
+      <link>//localhost:1313/essays/things-they-carried/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/things-they-carried/</guid>
+      <description>&lt;p&gt;Dipu Paruchal tilted his head back and surveyed the massive concrete structure resting on a pillar. This stretch of concrete pillars along the road leading up to Kota Damansara would soon be supporting an elevated MRT guideway. Sweat trickled down Dipu’s forehead into his eyes. It stung. He blinked back the sweat and reached into the back pocket of his brown pants for a towel. As he took the towel out, a piece of paper fell out on the ground.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Eexinwrites</title>
+    <link>//localhost:1313/tags/places/</link>
+    <description>Recent content in Places on Eexinwrites</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My love for the Cederberg mountains</title>
+      <link>//localhost:1313/essays/my-first-post/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/essays/my-first-post/</guid>
+      <description>&lt;p&gt;The bar in the middle of the campsite was a wooden shack nestled among the boulders. A bright neon sign at the door spelled out the name of the establishment, glowing red capitalised letters eagerly pronouncing its presence.&lt;/p&gt;&#xA;&lt;p&gt;Wooden benches lined the four walls. A fire in the center of the room raged stubbornly against the cold spring air. It was off-peak season and the place was almost empty. The bartender, a middle-aged man with a bulging middle, waved us in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
