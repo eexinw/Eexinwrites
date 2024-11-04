@@ -1,4 +1,4 @@
-baseurl      = "https://eexinwrites.com"
+baseurl      = ""
 title        = "Essays"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
