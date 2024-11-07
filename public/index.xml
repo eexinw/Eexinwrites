@@ -17,6 +17,13 @@
       <description>&lt;p&gt;&lt;img alt=&#34;&amp;ldquo;San Sebastian&amp;rdquo;&#34; src=&#34;//localhost:1313/images/Spain-san-sebastian.JPG&#34; title=&#34;san-sebastian&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Eexin, a Malaysian based in Kuala Lumpur and (currently in) Hong Kong.&lt;/p&gt;&#xA;&lt;p&gt;I have spent the past ten years leading strategy, product and operations teams in pre-series A startups (digital mental health) and in large tech companies (Grab). I love solving problems and doing things hands-on, and am constantly looking out for interesting projects to work on.&lt;/p&gt;&#xA;&lt;p&gt;Outside of work, I enjoy rock-climbing, reading and writing. I also love a good play. I am curious about a wide array of topics &amp;ndash; writings here are attempts to develop some of these thoughts or ideas and to crystallise experiences which are important to me.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;A family&amp;rsquo;s love language&lt;/strong&gt; &lt;a href=&#34;https://mekongreview.com/a-familys-love-language/&#34;&gt;Mekong Review, Feb 2023&lt;/a&gt;:&#xA;A small tribute to my late Grandma&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chasing Highs&lt;/strong&gt; &lt;a href=&#34;https://chasinghighs.substack.com/&#34;&gt;2023&lt;/a&gt;: Highlighting stories of climbers and climbing in Malaysia&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Why do CAC and LTV matter?</title>
       <link>//localhost:1313/essays/cacltv/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
@@ -43,13 +50,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/essays/things-they-carried/</guid>
       <description>&lt;p&gt;Dipu Paruchal tilted his head back and surveyed the massive concrete structure resting on a pillar. This stretch of concrete pillars along the road leading up to Kota Damansara would soon be supporting an elevated MRT guideway. Sweat trickled down Dipu’s forehead into his eyes. It stung. He blinked back the sweat and reached into the back pocket of his brown pants for a towel. As he took the towel out, a piece of paper fell out on the ground.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My first project</title>
-      <link>//localhost:1313/projects/first-project/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/first-project/</guid>
-      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&#xA;hello hello&lt;/p&gt;&#xA;&lt;p&gt;#Awesome&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

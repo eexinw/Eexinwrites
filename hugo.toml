@@ -58,12 +58,7 @@ publishDir   = "public"
     # alt = "Your example logo alt text"    
 
   # And you can even create generic menu
-  [[menu.main]]
-    identifier = "Projects"
-    name       = "Projects"
-    url        = "/projects"
-    weight     = 90
-
+ 
   [[menu.main]]
     identifier = "essays"
     name       = "Essays"
@@ -75,7 +70,14 @@ publishDir   = "public"
     name       = "About"
     url        = "/about"
     weight     = 80
- 
+  
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
+    weight     = 90
+
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
