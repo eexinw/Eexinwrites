@@ -44,6 +44,8 @@ We did not actually reach the summit of Sneeuberg on this trip. We had a pleasan
 
 On the ledge, we were treated to a grand vista of layers and layers of rolling mountains gently dipping into a valley which then met the clear blue sky in the horizon. From here, we could see the flat top of Table Mountain back in Cape Town, some 700 kilometers away. The golden autumn colors around us were punctuated by pink bulbous proteas, bright yellow daisy-like flowers and clumps of tiny purple petals peeking at us from beneath rocks. This was a view worth sharing on Instagram (the narcissistic tendrils of Instagram has its roots even in the remotest corners of the world), the magnificence of it all is what we meant when we say we miss South Africa. Except we couldn’t share it, and it really didn’t matter. All connections to civilization severed, we could climb trees, take naps bathed in sunlight, drink from the river, eat chocolate for breakfast, lunch, dinner if we wanted to. Heck, we could eat whatever and whenever we wanted (which was how we ran out of food). 
 
+!["Hiking"](/images/hike-cederberg.JPG "hiking")
+
 Up here, we were suspended somewhere between heaven and earth, free from the constant demand of the material world but at the mercy of the whims of the natural world. As we waddled down, the clouds rolled in and the wind seemed to blow harder. The mountain was beginning to lose its charm; the creeping darkness and cold gradually reared its ugly head as the sun set. 
 
 An hour later, and no sign of the hut we were supposed to stay in. The huge boulders in the distant horizon gradually morphed to resemble different possible shapes and sizes of shelter.
@@ -58,8 +60,8 @@ As the high-schoolers jostled and hushed each other, four of us crept outside an
 
 I looked up and saw a dark abyss, a dizzying gap in my understanding of the universe and of the reason for our existence. Confronted by the immensity of the question “why?”, Hamlet poses two options: to be or not to be. Look life in the eye, see it for what it is, and choose either to reject or live it with love. 
 
-!["Hiking"](/images/hike-cederberg.JPG "hiking")
 !["stars"](/images/stars-cederberg.JPG "stars")
+
 !["barn"](/images/barn-cederberg.JPG "barn")
 
 
