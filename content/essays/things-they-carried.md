@@ -1,5 +1,5 @@
 +++
-title = "The things they carried"
+title = "The things they carried (short story written for a workshop)"
 description = ""
 date = "2018-06-01"
 draft = false

@@ -30,6 +30,8 @@ We were here to boulder for a few days and had set ourselves a “no-alcohol bef
 
 That’s the thing about South Africans - arbitrarily-set rules don’t matter, you can smile and charm your way out of most things. What matters is that we are all happy, lekker. I downed the shot; home had never tasted so sweet and warm.
 
+!["Campfire"](/images/fire-cederberg.JPG "campfire")
+
 ----  
 
 Cederberg is a mountain range in South Africa about 50 kilometers long and located three hours north of Cape Town. It is named after the endangered Clanwilliam cedar tree, a species endemic to the area. Cederberg is also home to Rocklands, aptly named for its vast fields of natural sandstone boulders - a climber’s paradise. 
@@ -55,6 +57,11 @@ The gods who reigned over the mountains were generous that evening, and we soon 
 As the high-schoolers jostled and hushed each other, four of us crept outside and surreptitiously fueled up on wine while waiting for the pasta to cook (swapping out the jar of pasta sauce for wine in my backpack was one of my best decisions on this trip). Huddled in our jackets, between mouthfuls of cold pasta mixed with black pepper, we craned our necks up at the night sky. There was Mars, a defiant red among its twinkling peers. Jupiter shone proudly low in the horizon and the Milky Way, a bright silver band against the pitch-black, lit up the sky. The dark sky was a blank canvas on which the sketches of stars, planets, and meteors were now visible to our human eye. Our ancestors looked up at them and saw practical navigation tools. Galileo through his telescope saw that the Sun (not Earth, not us) was the center of the universe. Hubble saw other galaxies in a constantly expanding universe. 
 
 I looked up and saw a dark abyss, a dizzying gap in my understanding of the universe and of the reason for our existence. Confronted by the immensity of the question “why?”, Hamlet poses two options: to be or not to be. Look life in the eye, see it for what it is, and choose either to reject or live it with love. 
+
+!["Hiking"](/images/hike-cederberg.JPG "hiking")
+!["stars"](/images/stars-cederberg.JPG "stars")
+!["barn"](/images/barn-cederberg.JPG "barn")
+
 
 The next few days in Rocklands, life took on a different hue. The reddish-sandstone boulders were our playground, and we were free, humbled and curious. There was no rule: we climbed routes with interesting names, such as “The Girlfriend Problem” which our friend could not send and declared remains an unsolved mystery, and picked boulders we thought were aesthetically pleasing. We took naps on the boulders in the warmth of the sun. And night after night we returned to the bar, braai-ing broewors (South African sausages) over the campfire and continuing our evening with wine-fueled nights. Climbers congregated here, exchanging beta on classic routes and recalling narrow misses or big falls, the burning passion in their eyes a reflection of the fire blazing in the room. It was almost like we were a cult of boulder worshippers, mere mortals whose goal in life was to repeat the classic routes established by the pro climbers with seemingly divine strength. 
 

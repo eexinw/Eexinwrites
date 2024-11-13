@@ -7,6 +7,7 @@ aliases = "about"
 +++
 
 !["San Sebastian"](/images/Spain-san-sebastian.JPG "san-sebastian")
+!["climbing"](/images/climb-cederberg.JPG "climbing")
 
 I'm Eexin, a Malaysian based in Kuala Lumpur and (currently in) Hong Kong. 
 
