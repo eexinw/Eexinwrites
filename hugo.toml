@@ -87,7 +87,7 @@ publishDir   = "public"
 
 [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/ee-xin-wong/"
+    url  = "https://www.linkedin.com/in/ee-xin-wong/"
 
   [params.footer]
     trademark = 2024
